@@ -1,5 +1,11 @@
 $font-size-root: 10px;
 
+$primary: #FF8811;
+
+$body-color: #1C1B1F;
+$link-color: $body-color;
+$link-hover-color: $primary;
+
 $spacers: (
   1: $spacer * 2,
   2: $spacer * 4,
